@@ -2,7 +2,8 @@
 Resources for Tweeting cat pictures.
 
 ## Tutorial: Tweeting Media with v2 of the Twitter API in Python
-With the launch of the manage Tweets endpoint, we included the ability to attach previously uploaded media to a Tweet. In addition, based on feedback we’ve heard from you, we recently added access to the v1 media endpoints for all users.  
+With the launch of the manage Tweets endpoint, we included the ability to attach previously uploaded media to a Tweet. In addition, based on feedback we’ve heard from you, we recently added access to the v1 media endpoints for all users. 
+
 Code that corresponds to [this tutorial](https://developer.twitter.com/en/docs/tutorials/tweeting-media-v2) can be found in the folder `v2-media-tutorial` in this repository.
 
 This tutorial will walk you through how to Tweet images of cats using the manage Tweets endpoint of v2 and the v1.1 media endpoints in Python using Flask. Using OAuth 2.0. Authorization Code Flow with PKCE to request the Manage Tweets endpoint requires a user to log in. Therefore, you can use Flask as a web framework to parse the information dynamically.
