@@ -1,4 +1,4 @@
-# cat-pics
+# Cat pics!
 Resources for Tweeting cat pictures.
 
 ## Tutorial: Tweeting Media with v2 of the Twitter API in Python
